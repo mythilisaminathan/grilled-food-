@@ -1,0 +1,150 @@
+*{
+    inset: 0;
+}
+.list{
+    color: #EFB920 !important;
+    background: transparent;
+   
+}
+.nav-link:hover{
+    background-color: #EFB920;
+    color: black;
+    padding: 0;
+}
+.slide{
+    background-image: url("slide.png");
+    height: 450px;
+}
+.img1{
+    position: absolute;
+    /* float: right; */
+
+}
+.head3{
+    text-shadow: 4px 6px 6px rgba(0,0,0,0.99);
+}
+
+.card{
+    width: 13%;
+    height: 90px;
+}
+.para{
+    color: grey;
+}
+.bg{
+    background-color: #212322;
+}
+.add-div{
+    background-color: #0C0B09;
+    opacity: .4;
+    height: 300px;
+    width: 51.5%;
+    transform: rotate(90deg);
+    top: 14%;
+    left:67%;
+
+}
+.sec3-sec{
+    font-weight: 700;
+}
+.sec{
+    text-align: right;
+    
+}
+.section5{ 
+    background-image: url("bg.png");
+    height: 520px;
+} 
+.sec5-img{
+    z-index: -1;
+
+}
+.section6{
+    background-image: url("bg.png");
+    height: 520px;
+}
+.card-box-2{
+    width: 50%;
+    height: 130px;
+
+}
+.col-7{
+    margin-top: 60px;
+}
+.card-text-2{
+    font-size: 25px;
+}
+.sec5-blur{
+    filter: blur(100px);
+  
+background-color: black;
+  
+  height: 20%;
+  width: 100%;
+  position: absolute;
+  
+  top: 78%;
+  
+
+}
+.sec3-img1{
+    filter: drop-shadow(0 0 0.99rem black);
+     
+}
+.para1{
+    font-size: 10px;
+    color: white;
+}
+.card-box-1{
+    width:25%;
+    height: 100px;
+}
+.card-title-1{
+    letter-spacing: 2px;
+    font-weight: 700;
+    font-size: 17px;
+    text-align: center;
+}
+.div02{
+    line-height: 5px;
+}
+.card-text-1{
+    letter-spacing: 1px;
+    
+    
+}
+
+.card-box{
+    width: 45%;
+    
+    letter-spacing: 1px;
+    font-weight: 600;
+    height: 16%;
+    top: 0%;
+}
+.tab-col{
+    font-size: 10px;
+    color: white;
+    background: transparent;
+    
+    line-height: 5px;
+    top: 10%;
+    left: 0;
+}
+.footer{
+    background-color: #212322;
+    height: 500px;
+}
+.card-box-foot{
+    height: 60%;
+    width: 40%;
+}
+.foot-text{
+    font-size: 19px;
+}
+.foot-list{
+    font-size: 21px;
+}
+.nav-item{
+    list-style: none;
+}
